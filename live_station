@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T06:33:26.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mg_xwGe2cA8HhUtw0D_n" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T07:31:35.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="zvwThbvdBWOUWq5QaZ_F" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DXJv8_FaBASsyEWKgqA6-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;사용자 등록&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="35" y="610" width="110" height="20" as="geometry" />
+          <mxGeometry x="25" y="610" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DXJv8_FaBASsyEWKgqA6-38" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="155" y="880" width="30" height="20" as="geometry" />
@@ -254,18 +254,21 @@
           <mxGeometry x="500" y="1540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjBBfatvt7w_qlc5he9a-19" value="등록 이용자 정보 DB&lt;br&gt;================&lt;br&gt;구분자&lt;br&gt;이름&lt;br&gt;이메일" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="760" width="150" height="90" as="geometry" />
+          <mxGeometry x="-210" y="670" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UjBBfatvt7w_qlc5he9a-21" value="1. 마케팅동의 ?&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-500" y="270" width="213" height="200" as="geometry" />
+        <mxCell id="UjBBfatvt7w_qlc5he9a-21" value="질문&lt;br&gt;1. 마케팅동의 ?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-480" y="270" width="213" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UjBBfatvt7w_qlc5he9a-22" value="등록자가 URL을 공개한다면?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-500" y="670" width="213" height="200" as="geometry" />
+        <mxCell id="UjBBfatvt7w_qlc5he9a-22" value="질문&lt;br&gt;등록자가 URL을 공개한다면?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="660" width="213" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UjBBfatvt7w_qlc5he9a-23" value="등록 이용자 정보 DB&lt;br&gt;================&lt;br&gt;이름&lt;br&gt;이메일" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="1025" width="150" height="90" as="geometry" />
+          <mxGeometry x="-210" y="1025" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UjBBfatvt7w_qlc5he9a-24" value="세미나 생성 DB&lt;br&gt;================&lt;br&gt;Title&lt;br&gt;m3u8 URL&lt;br&gt;채팅여부&lt;br&gt;시작시간&lt;br&gt;종료시간&lt;br&gt;구분자" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UjBBfatvt7w_qlc5he9a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.923;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjBBfatvt7w_qlc5he9a-24" target="UjBBfatvt7w_qlc5he9a-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjBBfatvt7w_qlc5he9a-24" value="세미나 생성 DB&lt;br&gt;================&lt;br&gt;Title&lt;br&gt;m3u8 URL&lt;br&gt;채팅여부&lt;br&gt;시작시간&lt;br&gt;종료시간&lt;br&gt;VOD 녹화 여부&lt;br&gt;구분자" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="500" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UjBBfatvt7w_qlc5he9a-25" value="Admin 로그인 정보 DB&lt;br&gt;================&lt;br&gt;ID&lt;br&gt;PW&lt;br&gt;소속" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -277,12 +280,6 @@
             <mxPoint x="770" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjBBfatvt7w_qlc5he9a-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="660" as="sourcePoint" />
-            <mxPoint x="260" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UjBBfatvt7w_qlc5he9a-30" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="440" as="sourcePoint" />
@@ -291,6 +288,12 @@
         </mxCell>
         <mxCell id="UjBBfatvt7w_qlc5he9a-31" value="패널에게 이메일을 발송할때는&lt;br&gt;스트림 정보(URL,Key) 값을 전송&lt;br&gt;패널이 Prism에서 해당 스트림 정보활용하여 &lt;br&gt;세미나 세팅" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="420" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UjBBfatvt7w_qlc5he9a-32" value="세미나별 다르게" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="630" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UjBBfatvt7w_qlc5he9a-37" value="채팅 정보================&lt;br&gt;아이디&lt;br&gt;대화내용&lt;br&gt;대화시간" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="1120" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

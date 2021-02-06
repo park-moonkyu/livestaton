@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Hello</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <link href="https://unpkg.com/video.js@7.3.0/dist/video-js.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/video.js@7.3.0/dist/video.min.js"></script>
+    <script src="newskin.js"></script>
+</head>
+<body onload="onloaded()">
+
+live Station 실시간 확인하기<br>
+<a href="https://uteoxnpxynnv5889560.cdn.ntruss.com/live/video/ls-20210119171141-j4Tn2/live.mpd">실시간 시청</a>
+<div>
+    <video id=example-video width=600 height=300 class="video-js" webkit-playsinline autoplay controls muted>
+        <source src="https://uteoxnpxynnv5889560.cdn.ntruss.com/live/video/ls-20210119171141-j4Tn2/playlist.m3u8" type="application/x-mpegurl">
+        <source src="https://uteoxnpxynnv5889560.cdn.ntruss.com/live/video/ls-20210119171141-j4Tn2/live.mpd" type="application/dash+xml">
+        asdasdasd
+    </video>
+    <script>
+    function onloaded() {
+      var player = videojs('example-video');
+      //player.src({ src: 'https://uteoxnpxynnv5889560.cdn.ntruss.com/live/video/ls-20210119171141-j4Tn2/live.mpd', type: 'application/dash+xml'});
+      //player.src({ src: 'https://uteoxnpxynnv5889560.cdn.ntruss.com/live/video/ls-20210119171141-j4Tn2/playlist.m3u8', type: 'application/x-mpegurl'});
+
+      var playPromise = player.play();
+
+      if (playPromise !== undefined) {
+        playPromise.then(_ => {
+          // Automatic playback started!
+          // Show playing UI.
+        })
+        .catch(error => {
+          // Auto-play was prevented
+          // Show paused UI.
+        });
+      }
+     }
+    </script>
+
+</div>
+
+</body>
+</html>

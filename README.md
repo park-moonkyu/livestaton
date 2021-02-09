@@ -1,9 +1,3 @@
-#  LiveStation을 활용한 자체 세미나 웹 구축
-
-# Introduction
-
-
-
 # LiveStation을 이용한 웹 구축
 
 ## 세부 사항

@@ -6,12 +6,6 @@
 개발 목적 : LiveStation 사용하여 자체 세미나 웹 구축  <br>
 
 
-## Introduction 
-
-우선순위에 따라 판매량 및 매출액을 예측한다. <br> 
-## Conculsion 
-해당 결과는 대원CTS 수요예측.ppt에서 확인할수 있습니다.
-<br><br>
 
 ## 이슈 사항 공유란 
 
@@ -22,10 +16,9 @@ video.js를 이용하여 해당 오류 해결(02.08 해결)
 
 <br>
 
-<br>
 
 ## 간략한 데이터 분석 과정
-<img width="621" alt="주석 2020-08-27 115747" src="https:https://github.com/park-moonkyu/livestaton/blob/main/live_station.png">
+<img width="621" src="https:https://github.com/park-moonkyu/livestaton/blob/main/live_station.png">
 
 <br><br>
 ==================================================

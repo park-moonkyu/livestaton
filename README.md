@@ -16,9 +16,8 @@ video.js를 이용하여 해당 오류 해결(02.08 해결)
 
 <br>
 
-
 ## 간략한 데이터 분석 과정
+
 ![zz](https://github.com/park-moonkyu/livestaton/blob/main/live_station.png) </br></br>
-<br><br>
-==================================================
+<br>
 

@@ -25,7 +25,7 @@ video.js를 이용하여 해당 오류 해결(02.08 해결)
 <br>
 
 ## 간략한 데이터 분석 과정
-<img width="621" alt="주석 2020-08-27 115747" src="https://postfiles.pstatic.net/MjAxODEyMjJfMTA2/MDAxNTQ1NDc1Njg1MzI2.PfxeWEx1i8kObvYfWFehs3zLNKI8qDmeWRjldrBb7J4g.cNv6P7pMpVfUki_HVQcNuyJrYRv9Wrz0fpjsB610hX4g.JPEG.dmaker123/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%ED%9D%90%EB%A6%84%EB%8F%84.jpg?type=w966">
+<img width="621" alt="주석 2020-08-27 115747" src="https:https://github.com/park-moonkyu/livestaton/blob/main/live_station.png">
 
 <br><br>
 ==================================================

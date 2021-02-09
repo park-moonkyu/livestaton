@@ -18,8 +18,7 @@ video.js를 이용하여 해당 오류 해결(02.08 해결)
 
 
 ## 간략한 데이터 분석 과정
-<img width="621" src="https:https://github.com/park-moonkyu/livestaton/blob/main/live_station.png">
-
+![zz](https://github.com/park-moonkyu/livestaton/blob/main/live_station.png) </br></br>
 <br><br>
 ==================================================
 

@@ -28,3 +28,5 @@ Cookie 사용을 통한 재유입시 로그인 불필요 <br>
 
 <http://seminar.ncloudedu.com/>  <br>
 이름 입력후, 코드정보를 clovadubbing 입력시 홈 화면 진입가능<br>
+
+![zz](https://github.com/park-moonkyu/livestaton/blob/main/%E1%84%92%E1%85%A9%E1%86%B7%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png?raw=true) </br>
